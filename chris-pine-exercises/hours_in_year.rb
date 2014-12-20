@@ -1,5 +1,5 @@
 
-#How many seconds in a day?
+#How many seconds in an hour?
 
 hours = 24
 
